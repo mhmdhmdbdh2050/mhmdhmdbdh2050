@@ -170,8 +170,7 @@ A simple containerized HTML website used to practice Docker deployment fundament
 
 # `> architecture ./devops-automation-stack`
 
-<img src="./assets/devops-automation-architecture.svg" alt="DevOps Automation Stack architecture" width="100%"/>
-
+<img src="./assets/devops-automation-architecture.png" alt="DevOps Automation Stack architecture" width="100%"/>
 ```text
 Client
   │
