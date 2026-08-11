@@ -84,6 +84,8 @@ A production-inspired learning project that connects a Flask backend with Postgr
 
 A multi-container WordPress deployment built with Docker Compose.
 
+<img src="./architecture.png" alt="WordPress Docker Compose Architecture" width="100%"/>
+
 **Demonstrates**
 
 - WordPress containerization
