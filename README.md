@@ -148,9 +148,23 @@ A hands-on lab exploring how Docker containers communicate and how custom networ
 **Cairo University — Faculty of Commerce**  
 Graduated: 2026
 
-## 📜 Certifications
+## 🏅 AWS Certifications
 
-I list certifications only when the exact credential title and details are confirmed. This keeps the profile accurate and easy to verify.
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified AI Practitioner"/>
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Cloud Practitioner"/>
+
+</div>
+
+| Certification | Issued | Expires | Verification |
+|---|---|---|---|
+| **AWS Certified AI Practitioner** | September 10, 2026 | September 10, 2029 | [AWS Certification Verification](https://aws.amazon.com/verification/) |
+| **AWS Certified Cloud Practitioner** | May 25, 2026 | May 25, 2029 | [AWS Certification Verification](https://aws.amazon.com/verification/) |
+
+*To verify a credential, use the validation number printed on the corresponding certificate on the official AWS verification page.*
+
+---
 
 ## 📬 Let's connect
 
