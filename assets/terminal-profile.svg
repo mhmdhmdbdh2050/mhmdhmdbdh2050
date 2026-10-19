@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 390" role="img" aria-labelledby="title desc">
+<title id="title">Mohamed Ahmed Abdo terminal-style developer profile</title>
+<desc id="desc">A dark terminal panel with a Kubernetes-inspired ASCII cluster on the left and profile details, focus areas, certifications, and contact links on the right.</desc>
+<defs>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101820"/><stop offset="1" stop-color="#172B35"/></linearGradient>
+  <linearGradient id="top" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2DD4BF"/><stop offset=".55" stop-color="#326CE5"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5"/></filter>
+  <style>
+    .mono{font-family:'Fira Code','Cascadia Code',Consolas,monospace}
+    .ui{font-family:'Segoe UI',Arial,sans-serif}
+    .muted{fill:#9CB5C0}
+    .white{fill:#F1F7FA}
+    .teal{fill:#2DD4BF}
+    .orange{fill:#FFB454}
+    .violet{fill:#C4B5FD}
+    .blue{fill:#93C5FD}
+  </style>
+</defs>
+<rect x="2" y="2" width="996" height="386" rx="15" fill="url(#panel)" stroke="#42606D" stroke-width="2"/>
+<path d="M17 2H983a15 15 0 0 1 15 15v36H2V17A15 15 0 0 1 17 2Z" fill="#202A33"/>
+<path d="M2 52H998" stroke="url(#top)" stroke-width="2"/>
+<circle cx="24" cy="26" r="5" fill="#FB7185"/><circle cx="43" cy="26" r="5" fill="#FBBF24"/><circle cx="62" cy="26" r="5" fill="#34D399"/>
+<text x="84" y="31" class="mono" font-size="13" fill="#C9D7DE">mohamed@devops-profile: ~</text>
+<text x="957" y="31" class="mono" font-size="12" fill="#78909C" text-anchor="end">README</text>
+<!-- Left terminal illustration -->
+<rect x="20" y="68" width="365" height="299" rx="10" fill="#0B141A" stroke="#29434F"/>
+<text x="38" y="91" class="mono teal" font-size="12">$ cluster --profile</text>
+<g stroke="#2DD4BF" stroke-width="1.7" stroke-opacity=".8" fill="none">
+  <path d="M188 137L117 180 188 222 259 180Z"/>
+  <path d="M117 180L117 260 188 302 259 260 259 180"/>
+  <path d="M188 222V302"/>
+  <path d="M117 260L188 222 259 260"/>
+  <path d="M117 180L188 137 259 180"/>
+</g>
+<g fill="#123F47" stroke="#2DD4BF" stroke-width="2">
+  <circle cx="188" cy="137" r="20"/><circle cx="117" cy="180" r="17"/><circle cx="259" cy="180" r="17"/>
+  <circle cx="188" cy="222" r="22"/><circle cx="117" cy="260" r="17"/><circle cx="259" cy="260" r="17"/><circle cx="188" cy="302" r="17"/>
+</g>
+<g class="mono" fill="#D9FFFA" font-size="11" text-anchor="middle">
+  <text x="188" y="141">K8s</text><text x="117" y="184">POD</text><text x="259" y="184">SVC</text>
+  <text x="188" y="226">NODE</text><text x="117" y="264">NET</text><text x="259" y="264">ING</text><text x="188" y="306">AWS</text>
+</g>
+<g fill="#2DD4BF"><circle cx="188" cy="137" r="3"><animate attributeName="opacity" values=".35;1;.35" dur="4s" repeatCount="indefinite"/></circle><circle cx="259" cy="180" r="3"><animate attributeName="opacity" values="1;.3;1" dur="5s" repeatCount="indefinite"/></circle></g>
+<text x="39" y="339" class="mono muted" font-size="10">BUILD  /  TEST  /  TROUBLESHOOT</text>
+<text x="39" y="355" class="mono muted" font-size="10">DOCUMENT  /  IMPROVE</text>
+<!-- Right terminal details -->
+<text x="414" y="83" class="mono teal" font-size="12">$ whoami</text>
+<text x="414" y="107" class="ui white" font-size="22" font-weight="700">Mohamed Ahmed Abdo</text>
+<text x="414" y="128" class="ui muted" font-size="14">Junior DevOps &amp; Cloud Engineer</text>
+<path d="M414 145H970" stroke="#344E5B"/>
+<text x="414" y="168" class="mono orange" font-size="12">PROFILE</text>
+<text x="522" y="168" class="mono white" font-size="12">Giza, Egypt</text>
+<text x="414" y="194" class="mono orange" font-size="12">FOCUS</text>
+<text x="522" y="194" class="mono white" font-size="12">Linux · Docker · Kubernetes</text>
+<text x="522" y="212" class="mono white" font-size="12">AWS · Automation · Networking</text>
+<text x="414" y="239" class="mono orange" font-size="12">CERTS</text>
+<text x="522" y="239" class="mono white" font-size="12">AWS AI Practitioner</text>
+<text x="522" y="257" class="mono white" font-size="12">AWS Cloud Practitioner</text>
+<text x="414" y="284" class="mono orange" font-size="12">PROJECTS</text>
+<text x="522" y="284" class="mono white" font-size="12">Kubernetes Ingress · Docker Compose</text>
+<text x="522" y="302" class="mono white" font-size="12">Networking · WordPress stack</text>
+<path d="M414 319H970" stroke="#344E5B"/>
+<text x="414" y="343" class="mono teal" font-size="12">$ cat approach.txt</text>
+<text x="414" y="362" class="mono white" font-size="12">Build → Test → Document → Improve</text>
+<rect x="952" y="350" width="7" height="15" rx="1" fill="#2DD4BF"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+</svg>
