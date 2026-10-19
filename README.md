@@ -1,27 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohamed%20Ahmed%20Abdo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20DevOps%20%26%20Cloud%20Engineer&descSize=20&descAlignY=58" alt="Mohamed Ahmed Abdo — Junior DevOps and Cloud Engineer" width="100%"/>
+<img src="./assets/hero.svg" alt="Mohamed Ahmed Abdo — Junior DevOps and Cloud Engineer, with a navy and teal infrastructure network design" width="100%"/>
 
-<a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=2DD4BF&center=true&vCenter=true&width=720&lines=Building+and+troubleshooting+Kubernetes+labs;Containerizing+apps+with+Docker+%26+Compose;Learning+AWS+through+hands-on+projects;Automate+%E2%86%92+Test+%E2%86%92+Document+%E2%86%92+Improve" alt="Animated introduction"/>
-</a>
+<a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=760&lines=Building+and+troubleshooting+Kubernetes+labs;Containerizing+apps+with+Docker+%26+Compose;Learning+AWS+through+hands-on+projects;Automate+%E2%86%92+Test+%E2%86%92+Document+%E2%86%92+Improve" alt="Animated tagline: Kubernetes labs, Docker Compose, AWS hands-on projects, and continuous improvement"/></a>
 
 <p>
-  <a href="https://github.com/mhmdhmdbdh2050"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/></a>
-  <a href="https://www.linkedin.com/in/mohamed-ahmed-6705b3303/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ahmedmohamed05147@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mhmdhmdbdh2050&label=Profile%20views&color=2c5364&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS certified"/>
+<a href="https://github.com/mhmdhmdbdh2050"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse GitHub projects"/></a>
+<a href="https://www.linkedin.com/in/mohamed-ahmed-6705b3303/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="mailto:ahmedmohamed05147@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mohamed"/></a>
 </p>
 
 </div>
 
----
+<img src="./assets/divider.svg" alt="Animated teal and violet node-line divider" width="100%"/>
 
 ## 👋 About Me
+
+I'm **Mohamed Ahmed Abdo**, based in **Giza, Egypt**. I learn DevOps by building practical environments and debugging them hands-on. My projects explore containerized application stacks, Docker networking and persistent storage, and Kubernetes workloads exposed through Ingress.
+
+I'm looking for opportunities as a **Junior DevOps Engineer** or **Junior Cloud Engineer**.
+
+### Terminal Snapshot
 
 ```bash
 $ whoami
@@ -34,35 +33,19 @@ $ approach
 Build → Test → Troubleshoot → Document → Improve
 ```
 
-I'm based in **Giza, Egypt**, and I learn DevOps by building practical environments and debugging them hands-on. My projects explore containerized application stacks, Docker networking and persistent storage, and Kubernetes workloads exposed through Ingress.
+<img src="./assets/divider.svg" alt="Animated teal and violet node-line divider" width="100%"/>
 
-I'm looking for opportunities to grow as a **Junior DevOps Engineer or Junior Cloud Engineer**, contribute to a team, and keep improving my infrastructure and automation skills.
+## 🧩 Technical Toolkit
 
-## 🛠️ Tech Stack
+<img src="./assets/skills.svg" alt="Three-group skills visualization: Linux and Automation with Linux, Bash, Python, Git, GitHub; Containers and Orchestration with Docker, Kubernetes, Nginx, Compose, networks and volumes; Cloud and Services with AWS, PostgreSQL, Redis, MySQL, EC2 and VPC labs" width="100%"/>
 
-<div align="center">
-
-### Linux & Automation
-
-<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github&theme=dark" alt="Linux, Bash, Python, Git and GitHub icons"/>
-
-### Containers & Orchestration
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx&theme=dark" alt="Docker, Kubernetes and Nginx icons"/>
-
-### Cloud & Application Services
-
-<img src="https://skillicons.dev/icons?i=aws,postgres,redis,mysql&theme=dark" alt="AWS, PostgreSQL, Redis and MySQL icons"/>
-
-</div>
-
-**Hands-on areas:** Docker Compose · Docker networks and volumes · Kubernetes Deployments and Services · NGINX Ingress · ConfigMaps and Secrets fundamentals · Jobs and CronJobs · Scheduling concepts · AWS EC2 and VPC labs.
+**Hands-on areas:** Docker Compose, Docker networks and volumes, Kubernetes Deployments and Services, NGINX Ingress, ConfigMaps and Secrets fundamentals, Jobs and CronJobs, scheduling concepts, AWS EC2 and VPC labs.
 
 > The technologies above reflect my learning and practical labs. I distinguish hands-on projects from professional production experience.
 
----
+<img src="./assets/divider.svg" alt="Animated teal and violet node-line divider" width="100%"/>
 
-## 🧭 My DevOps Learning Roadmap
+## 🧭 DevOps Learning Roadmap
 
 ```mermaid
 flowchart LR
@@ -72,142 +55,90 @@ flowchart LR
     D --> E[☸️ Kubernetes]
     E --> F[🔐 Security & RBAC]
     F --> G[⚙️ CI/CD & Observability]
-    style A fill:#176b87,color:#fff,stroke:#2dd4bf
-    style B fill:#176b87,color:#fff,stroke:#2dd4bf
-    style C fill:#176b87,color:#fff,stroke:#2dd4bf
-    style D fill:#176b87,color:#fff,stroke:#2dd4bf
-    style E fill:#a66b15,color:#fff,stroke:#f0b44d
-    style F fill:#a66b15,color:#fff,stroke:#f0b44d
-    style G fill:#5b4b9a,color:#fff,stroke:#a78bfa
+    style A fill:#176b87,color:#fff,stroke:#2DD4BF
+    style B fill:#176b87,color:#fff,stroke:#2DD4BF
+    style C fill:#176b87,color:#fff,stroke:#2DD4BF
+    style D fill:#176b87,color:#fff,stroke:#2DD4BF
+    style E fill:#A66B15,color:#fff,stroke:#FF9900
+    style F fill:#5B4B9A,color:#fff,stroke:#A78BFA
+    style G fill:#5B4B9A,color:#fff,stroke:#A78BFA
 ```
 
-**Roadmap note:** Linux, Docker, AWS fundamentals, and multiple Kubernetes workloads have been practised through labs. Kubernetes security/RBAC, CI/CD, and observability remain areas for continued development; the diagram is a learning roadmap, not a certification of mastery.
+- **Solid foundation:** Linux & Bash, Git & GitHub, Docker & Compose, AWS Fundamentals
+- **In progress:** Kubernetes
+- **Next:** Security & RBAC, CI/CD & Observability
 
----
+*This is a learning roadmap, not a claim of mastery.*
+
+<img src="./assets/divider.svg" alt="Animated teal and violet node-line divider" width="100%"/>
 
 ## 🏅 AWS Certifications
 
-<div align="center">
+<a href="https://aws.amazon.com/verification/"><img src="./assets/cert-ai.svg" alt="AWS Certified AI Practitioner — issued September 10, 2026; expires September 10, 2029; verify through AWS" width="100%"/></a>
 
-<img src="https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified AI Practitioner"/>
-<img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Cloud Practitioner"/>
+<a href="https://aws.amazon.com/verification/"><img src="./assets/cert-clf.svg" alt="AWS Certified Cloud Practitioner — issued May 25, 2026; expires May 25, 2029; verify through AWS" width="100%"/></a>
 
-</div>
+Verify credentials through the official [AWS Certification Verification](https://aws.amazon.com/verification/) page using the validation number printed on each certificate.
 
-| Certification | Issue date | Expiration |
-|---|---|---|
-| **AWS Certified AI Practitioner** | September 10, 2026 | September 10, 2029 |
-| **AWS Certified Cloud Practitioner** | May 25, 2026 | May 25, 2029 |
-
-Both certificates include AWS validation numbers. Use the official [AWS Certification Verification](https://aws.amazon.com/verification/) page to verify them.
-
----
+<img src="./assets/divider.svg" alt="Animated teal and violet node-line divider" width="100%"/>
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://github.com/mhmdhmdbdh2050/k8s-multi-app-ingress-lab"><img src="./assets/project-k8s.svg" alt="Kubernetes Multi-App Ingress Lab project card with Kubernetes, NGINX Ingress, and Flannel technology chips" width="100%"/></a>
 
-### ☸️ Kubernetes Multi-App Ingress Lab
+A multi-app Kubernetes lab on AWS EC2 using NGINX Ingress path-based routing.
 
-Multi-application Kubernetes lab on AWS EC2, focused on exposing workloads through NGINX Ingress path-based routing.
-
-**What it demonstrates**
 - Deployments and Services
 - Ingress routing and troubleshooting
-- Flannel cluster networking
-- Scheduling and workload concepts
+- Flannel networking and scheduling concepts
 
-[**View repository →**](https://github.com/mhmdhmdbdh2050/k8s-multi-app-ingress-lab)
+<a href="https://github.com/mhmdhmdbdh2050/devops-automation-stack"><img src="./assets/project-devops.svg" alt="DevOps Automation Stack project card showing Flask, PostgreSQL, Redis, and Nginx" width="100%"/></a>
 
-</td>
-<td width="50%" valign="top">
+A Docker Compose environment with Flask, PostgreSQL, Redis, and Nginx.
 
-### ⚙️ DevOps Automation Stack
-
-A Docker Compose application environment connecting Flask, PostgreSQL, Redis, and Nginx.
-
-**What it demonstrates**
-- Multi-container orchestration
-- Persistent database storage
-- Health checks and dependencies
+- Multi-container orchestration and persistent storage
+- Health checks and service dependencies
 - Backup/restore and automation scripts
 
-[**View repository →**](https://github.com/mhmdhmdbdh2050/devops-automation-stack)
+<a href="https://github.com/mhmdhmdbdh2050/docker-compose-wordpress-stack"><img src="./assets/project-wordpress.svg" alt="Dockerized WordPress Stack project card showing WordPress, MariaDB, Nginx, and phpMyAdmin" width="100%"/></a>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+A WordPress multi-container setup using Docker Compose, MariaDB, Nginx, and phpMyAdmin.
 
-### 🐳 Dockerized WordPress Stack
+<a href="https://github.com/mhmdhmdbdh2050/Docker-networking-lab"><img src="./assets/project-networking.svg" alt="Docker Networking Lab project card showing bridge networks, static IPs, and network isolation" width="100%"/></a>
 
-A multi-container WordPress setup for practising application services, networking, and persistent data.
+A focused lab for bridge networks, network isolation, static IP addressing, and multi-network containers.
 
-**Stack:** WordPress · MariaDB · Nginx · phpMyAdmin · Docker Compose
+### More Projects
 
-[**View repository →**](https://github.com/mhmdhmdbdh2050/docker-compose-wordpress-stack)
+- [Docker Custom Image](https://github.com/mhmdhmdbdh2050/Docker-custom-image-project) — Dockerfile, custom Nginx image, and port mapping.
+- [Docker Volume Project](https://github.com/mhmdhmdbdh2050/Docker-volume-project) — persistent container storage.
+- [Simple Docker Project](https://github.com/mhmdhmdbdh2050/Simple_docker_project) — serving a website from a container.
 
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Docker Networking Lab
-
-A focused lab exploring how Docker containers communicate and how custom networks provide isolation.
-
-**Focus:** Bridge networks · Network isolation · Static IP addressing · Multi-network containers
-
-[**View repository →**](https://github.com/mhmdhmdbdh2050/Docker-networking-lab)
-
-</td>
-</tr>
-</table>
-
-### More projects
-
-| Project | Focus | Repository |
-|---|---|---|
-| Docker Custom Image | Dockerfile, custom Nginx image, port mapping | [View →](https://github.com/mhmdhmdbdh2050/Docker-custom-image-project) |
-| Docker Volume Project | Persistent container storage | [View →](https://github.com/mhmdhmdbdh2050/Docker-volume-project) |
-| Simple Docker Project | Serving a website from a container | [View →](https://github.com/mhmdhmdbdh2050/Simple_docker_project) |
-
----
+<img src="./assets/divider.svg" alt="Animated teal and violet node-line divider" width="100%"/>
 
 ## 📊 GitHub Activity
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mhmdhmdbdh2050&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdhmdbdh2050&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdhmdbdh2050&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=mhmdhmdbdh2050&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for mhmdhmdbdh2050" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdhmdbdh2050&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages for mhmdhmdbdh2050" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdhmdbdh2050&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for mhmdhmdbdh2050" width="100%"/>
 </div>
 
-*Stats and third-party widgets are provided by external services and may occasionally be unavailable or delayed.*
+*GitHub statistics and third-party widgets are provided by external services and may occasionally be unavailable or delayed.*
 
----
+<img src="./assets/divider.svg" alt="Animated teal and violet node-line divider" width="100%"/>
 
 ## 🎓 Education
 
 **Cairo University — Faculty of Commerce**  
 Graduated: 2026
 
----
+## 🤝 Contact
 
-## 🤝 Let's Connect
-
-I'm interested in junior DevOps and Cloud opportunities, collaborative projects, and exchanging practical technical knowledge.
+- **Email:** [ahmedmohamed05147@gmail.com](mailto:ahmedmohamed05147@gmail.com)
+- **LinkedIn:** [linkedin.com/in/mohamed-ahmed-6705b3303](https://www.linkedin.com/in/mohamed-ahmed-6705b3303/)
+- **GitHub:** [github.com/mhmdhmdbdh2050](https://github.com/mhmdhmdbdh2050)
 
 <div align="center">
-
-<a href="mailto:ahmedmohamed05147@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/mohamed-ahmed-6705b3303/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/mhmdhmdbdh2050"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-*"Automate what you can. Understand what you build. Document what you learn."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" alt="Footer wave" width="100%"/>
-
+<img src="./assets/footer.svg" alt="Layered navy and teal footer wave with connected infrastructure nodes and the closing quote: Automate what you can. Understand what you build. Document what you learn." width="100%"/>
 </div>
