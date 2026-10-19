@@ -22,16 +22,7 @@ I'm looking for opportunities as a **Junior DevOps Engineer** or **Junior Cloud 
 
 ### Terminal Snapshot
 
-```bash
-$ whoami
-Mohamed Ahmed Abdo — Junior DevOps & Cloud Engineer
-
-$ focus
-Linux • Docker • Kubernetes • AWS • Automation • Networking
-
-$ approach
-Build → Test → Troubleshoot → Document → Improve
-```
+<img src="./assets/terminal-profile.svg" alt="Terminal-style profile dashboard showing Mohamed Ahmed Abdo, Junior DevOps and Cloud Engineer in Giza, Egypt, focus areas, AWS certifications, and project themes" width="100%"/>
 
 <img src="./assets/divider.svg" alt="Animated teal and violet node-line divider" width="100%"/>
 
