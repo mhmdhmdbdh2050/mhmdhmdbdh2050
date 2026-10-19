@@ -1,257 +1,140 @@
 <div align="center">
 
-<img src="./assets/hero-banner.jpeg" alt="Mohamed Ahmed Abdo — Junior DevOps & Cloud Engineer" width="100%"/>
-<br/>
+<img src="./assets/hero.svg" width="100%" alt="Mohamed Ahmed Abdo — Junior DevOps and Cloud Engineer, with a navy and teal cloud infrastructure network design"/>
 
-<a href="https://github.com/mhmdhmdbdh2050"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mohamed-ahmed-6705b3303/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ahmedmohamed05147@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=760&lines=Building+and+troubleshooting+Kubernetes+labs;Containerizing+apps+with+Docker+%26+Compose;Learning+AWS+through+hands-on+projects;Automate+%E2%86%92+Test+%E2%86%92+Document+%E2%86%92+Improve" alt="Animated introduction about Kubernetes, Docker Compose, AWS and continuous improvement"/></a>
 
-<br/><br/>
-
-`Linux` · `Docker` · `Docker Compose` · `Git` · `Bash` · `Python`
+<a href="https://github.com/mhmdhmdbdh2050"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github" alt="Explore GitHub projects"/></a>
+<a href="https://www.linkedin.com/in/mohamed-ahmed-6705b3303/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/></a>
+<a href="mailto:ahmedmohamed05147@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Contact by email"/></a>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="Animated network-line section divider"/>
 
-## `> whoami`
+## `01` — About Me
 
-I'm **Mohamed Ahmed Abdo**, a **Junior DevOps & Cloud Engineer** focused on learning through hands-on projects.
+I'm **Mohamed Ahmed Abdo**, a **Junior DevOps & Cloud Engineer** based in **Giza, Egypt**.
 
-My current portfolio is centered on **Linux, Docker, Docker Compose, container networking, persistent storage, reverse proxies, databases, caching, Bash automation, and Git/GitHub workflows**.
+I learn DevOps by building practical environments and debugging them hands-on. I'm looking for opportunities as a Junior DevOps Engineer or Junior Cloud Engineer.
 
-I prefer building complete, working environments and documenting how the services communicate, start, persist data, and recover.
+<img src="./assets/terminal-profile.svg" width="100%" alt="Terminal dashboard showing my identity, location, technical focus, AWS certifications, project themes, and engineering approach"/>
 
----
+<img src="./assets/divider.svg" width="100%" alt="Animated network-line section divider"/>
 
-## `> cat ./skills`
+## `02` — Technical Architecture
 
-### 🐧 Linux & Automation
-`Linux` · `Ubuntu` · `Bash` · `Python`
+<img src="./assets/skills.svg" width="100%" alt="Three-part technical architecture diagram grouping Linux and automation, containers and orchestration, and cloud and database services"/>
 
-### 🐳 Containers
-`Docker` · `Docker Compose` · `Dockerfile` · `Volumes` · `Networks`
+**Hands-on areas:** Docker Compose, Docker networks and volumes, Kubernetes Deployments and Services, NGINX Ingress, ConfigMaps and Secrets fundamentals, Jobs and CronJobs, scheduling concepts, AWS EC2 and VPC labs.
 
-### 🌐 Networking & Services
-`Docker Bridge Networks` · `TCP/IP` · `HTTP/HTTPS` · `DNS` · `SSH` · `Nginx`
+> The technologies above reflect my learning and practical labs. I distinguish hands-on projects from professional production experience.
 
-### 🗄️ Data & Application Services
-`PostgreSQL` · `MariaDB` · `Redis` · `WordPress` · `phpMyAdmin`
+<img src="./assets/divider.svg" width="100%" alt="Animated network-line section divider"/>
 
-### ☁️ Cloud
-`AWS Cloud Fundamentals`
+## `03` — Engineering Roadmap
 
-> **Note:** The technologies above are presented as skills / learning areas. The portfolio only claims hands-on implementation where it is demonstrated by the repositories below.
-
----
-
-# `> ls ./projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🥇 DevOps Automation Stack
-
-A production-inspired learning project that connects a Flask backend with PostgreSQL, Redis and Nginx through Docker Compose.
-
-**Demonstrates**
-
-- Docker Compose orchestration
-- Flask application container
-- PostgreSQL 16
-- Redis 7 Alpine
-- Nginx reverse proxy
-- Dedicated Docker bridge network
-- Persistent PostgreSQL volume
-- Health checks
-- Service dependencies
-- `.env.example` configuration
-- Database initialization
-- Backup / restore scripts
-- Health-check script
-- Makefile automation
-
-**Repository:**  
-[View Project →](https://github.com/mhmdhmdbdh2050/devops-automation-stack)
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🥈 Dockerized WordPress Stack
-
-A multi-container WordPress deployment built with Docker Compose.
-
-<img src="./architecture.png" alt="WordPress Docker Compose Architecture" width="100%"/>
-
-**Demonstrates**
-
-- WordPress containerization
-- MariaDB
-- Nginx
-- phpMyAdmin
-- Docker networking
-- Persistent storage
-- Compose-based deployment
-
-**Repository:**  
-[View Project →](https://github.com/mhmdhmdbdh2050/docker-compose-wordpress-stack)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## 🥉 Docker Networking Lab
-
-A focused hands-on project for understanding Docker network communication and isolation.
-
-**Focus**
-
-- Custom bridge networks
-- Container communication
-- Network isolation
-- Static IP addressing
-- Multi-network containers
-
-**Repository:**  
-[View Project →](https://github.com/mhmdhmdbdh2050/Docker-networking-lab)
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📦 Docker Custom Image Project
-
-A hands-on Docker project demonstrating how to build a custom Nginx image and serve custom web content.
-
-**Focus**
-
-- Dockerfile
-- Image building
-- Alpine Linux
-- Nginx
-- Port mapping
-- Container lifecycle
-
-**Repository:**  
-[View Project →](https://github.com/mhmdhmdbdh2050/Docker-custom-image-project)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## 💾 Docker Volume Project
-
-A practical project focused on Docker persistent storage and volume concepts.
-
-**Repository:**  
-[View Project →](https://github.com/mhmdhmdbdh2050/Docker-volume-project)
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🐳 Simple Docker Project
-
-A simple containerized HTML website used to practice Docker deployment fundamentals.
-
-**Repository:**  
-[View Project →](https://github.com/mhmdhmdbdh2050/Simple_docker_project)
-
-</td>
-</tr>
-</table>
-
----
-
-# `> architecture ./devops-automation-stack`
-
-<img src="./assets/devops-automation-architecture.png" alt="DevOps Automation Stack architecture" width="100%"/>
-```text
-Client
-  │
-  ▼
-Nginx :80
-  │
-  ▼
-Flask :5000
-  ├──────────────► PostgreSQL :5432
-  │                  └── db_data volume
-  │
-  └──────────────► Redis :6379
+```mermaid
+flowchart TD
+    A["🐧 Linux & Bash"] --> B["🔀 Git & GitHub"]
+    B --> C["🐳 Docker & Compose"]
+    C --> D["☁️ AWS Fundamentals"]
+    D --> E["☸️ Kubernetes"]
+    E --> F["🔐 Security & RBAC"]
+    F --> G["⚙️ CI/CD & Observability"]
+    style A fill:#176B87,color:#FFFFFF,stroke:#2DD4BF
+    style B fill:#176B87,color:#FFFFFF,stroke:#2DD4BF
+    style C fill:#176B87,color:#FFFFFF,stroke:#2DD4BF
+    style D fill:#176B87,color:#FFFFFF,stroke:#2DD4BF
+    style E fill:#A66B15,color:#FFFFFF,stroke:#FF9900
+    style F fill:#5B4B9A,color:#FFFFFF,stroke:#A78BFA
+    style G fill:#5B4B9A,color:#FFFFFF,stroke:#A78BFA
 ```
 
-The repository documents health checks, startup dependencies, Docker service discovery, persistence, backup/restore, and operational scripts.
+- **Solid foundation:** Linux & Bash → Git & GitHub → Docker & Compose → AWS Fundamentals.
+- **In progress:** Kubernetes.
+- **Next:** Security & RBAC, followed by CI/CD & Observability.
 
----
+*This is a learning roadmap, not a claim of mastery.*
 
-# `> cat ./experience.log`
+<img src="./assets/divider.svg" width="100%" alt="Animated network-line section divider"/>
 
-This section is intentionally limited to information that has been verified for this profile.
+## `04` — Certifications
 
-**Current focus:** hands-on DevOps learning through the projects listed above.
+<a href="https://aws.amazon.com/verification/"><img src="./assets/cert-ai.svg" width="100%" alt="AWS Certified AI Practitioner credential card, issued September 10, 2026, expiring September 10, 2029"/></a>
 
----
+<a href="https://aws.amazon.com/verification/"><img src="./assets/cert-clf.svg" width="100%" alt="AWS Certified Cloud Practitioner credential card, issued May 25, 2026, expiring May 25, 2029"/></a>
 
-# `> cat ./education.log`
+Verify certificates using the official [AWS Certification Verification](https://aws.amazon.com/verification/) service and the validation number printed on each credential.
 
-**Cairo University — Faculty of Commerce**  
-**Graduated: 2026**
+<img src="./assets/divider.svg" width="100%" alt="Animated network-line section divider"/>
 
----
+## `05` — Selected Projects
 
-# `> cat ./certifications.txt`
+<a href="https://github.com/mhmdhmdbdh2050/k8s-multi-app-ingress-lab"><img src="./assets/project-k8s.svg" width="100%" alt="Kubernetes Multi-App Ingress Lab project card with Kubernetes, NGINX Ingress and AWS technology chips"/></a>
 
-Certifications can be added here after their details are verified.
+**Kubernetes Multi-App Ingress Lab**
 
----
+A multi-application Kubernetes lab on AWS EC2, featuring NGINX Ingress path-based routing.
 
-# `> git status`
+- Deployments and Services.
+- Ingress routing and troubleshooting.
+- Flannel networking and scheduling concepts.
 
-```text
-Portfolio focus:
-  + Linux
-  + Docker
-  + Docker Compose
-  + Docker Networking
-  + Persistent Storage
-  + Nginx
-  + PostgreSQL
-  + Redis
-  + Bash / Python
-  + Git & GitHub
-  + AWS Cloud Fundamentals
+<a href="https://github.com/mhmdhmdbdh2050/devops-automation-stack"><img src="./assets/project-devops.svg" width="100%" alt="DevOps Automation Stack project card showing Flask, PostgreSQL, Redis and Nginx"/></a>
 
-No unsupported production claims.
-No copied experience or certifications.
-```
+**DevOps Automation Stack**
 
----
+A Docker Compose environment with Flask, PostgreSQL, Redis and Nginx.
 
-# `> ./connect.sh`
+- Multi-container orchestration and persistent storage.
+- Health checks and service dependencies.
+- Backup/restore and automation scripts.
+
+<a href="https://github.com/mhmdhmdbdh2050/docker-compose-wordpress-stack"><img src="./assets/project-wordpress.svg" width="100%" alt="Dockerized WordPress Stack project card showing WordPress, MariaDB, Nginx and phpMyAdmin"/></a>
+
+**Dockerized WordPress Stack**
+
+A WordPress environment using Docker Compose, MariaDB, Nginx and phpMyAdmin.
+
+<a href="https://github.com/mhmdhmdbdh2050/Docker-networking-lab"><img src="./assets/project-networking.svg" width="100%" alt="Docker Networking Lab project card illustrating bridge networks, isolation and static IP addressing"/></a>
+
+**Docker Networking Lab**
+
+A practical lab covering bridge networks, network isolation, static IPs and multi-network containers.
+
+### More Projects
+
+- [Docker Custom Image](https://github.com/mhmdhmdbdh2050/Docker-custom-image-project) — Dockerfile, custom Nginx image, and port mapping.
+- [Docker Volume Project](https://github.com/mhmdhmdbdh2050/Docker-volume-project) — persistent storage.
+- [Simple Docker Project](https://github.com/mhmdhmdbdh2050/Simple_docker_project) — serving a website from a container.
+
+<img src="./assets/divider.svg" width="100%" alt="Animated network-line section divider"/>
+
+## `06` — GitHub Telemetry
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mhmdhmdbdh2050&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub statistics for mhmdhmdbdh2050"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdhmdbdh2050&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Most-used programming languages on GitHub"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdhmdbdh2050&theme=tokyonight&hide_border=true" width="100%" alt="GitHub contribution streak for mhmdhmdbdh2050"/>
+</div>
 
-**Open to Junior DevOps / Cloud opportunities and technical conversations.**
+*Statistics and third-party widgets are supplied by external services and may occasionally be unavailable or delayed.*
 
-<a href="mailto:ahmedmohamed05147@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ahmedmohamed05147%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/mohamed-ahmed-6705b3303/">
-  <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/mhmdhmdbdh2050">
-  <img src="https://img.shields.io/badge/GitHub-mhmdhmdbdh2050-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="./assets/divider.svg" width="100%" alt="Animated network-line section divider"/>
 
-<br/><br/>
+## `07` — Education
 
-`Build → Learn → Automate → Improve`
+**Cairo University — Faculty of Commerce**
 
+Graduated: 2026
+
+## `08` — Establish Connection
+
+- **Email:** [ahmedmohamed05147@gmail.com](mailto:ahmedmohamed05147@gmail.com)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohamed-ahmed-6705b3303/)
+- **GitHub:** [@mhmdhmdbdh2050](https://github.com/mhmdhmdbdh2050)
+
+<div align="center">
+<img src="./assets/footer.svg" width="100%" alt="Layered navy and teal footer with connected nodes and the quote: Automate what you can. Understand what you build. Document what you learn."/>
 </div>
