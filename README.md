@@ -108,6 +108,27 @@ A practical lab covering bridge networks, network isolation, static IPs and mult
 - [Docker Custom Image](https://github.com/mhmdhmdbdh2050/Docker-custom-image-project) — Dockerfile, custom Nginx image, and port mapping.
 - [Docker Volume Project](https://github.com/mhmdhmdbdh2050/Docker-volume-project) — persistent storage.
 - [Simple Docker Project](https://github.com/mhmdhmdbdh2050/Simple_docker_project) — serving a website from a container.
+- [Rock Paper Scissors Game](https://github.com/mhmdhmdbdh2050/Rock-paper-and-scissors-game) — Python command-line game.
+
+### Project Architecture Maps
+
+Each architecture image links to the corresponding repository.
+
+<a href="https://github.com/mhmdhmdbdh2050/devops-automation-stack"><img src="./assets/architecture/devops-automation-stack.svg" width="100%" alt="DevOps Automation Stack architecture: client, Nginx, Flask API, PostgreSQL, and Redis"/></a>
+
+<a href="https://github.com/mhmdhmdbdh2050/k8s-multi-app-ingress-lab"><img src="./assets/architecture/kubernetes-multi-app-ingress.svg" width="100%" alt="Kubernetes Ingress routes three paths to three app services and deployments"/></a>
+
+<a href="https://github.com/mhmdhmdbdh2050/docker-compose-wordpress-stack"><img src="./assets/architecture/wordpress-compose-stack.svg" width="100%" alt="WordPress Compose architecture with Nginx, WordPress, MariaDB and persistent storage"/></a>
+
+<a href="https://github.com/mhmdhmdbdh2050/Docker-networking-lab"><img src="./assets/architecture/docker-networking-lab.svg" width="100%" alt="Four containers across isolated Docker bridge networks, with one dual-homed container"/></a>
+
+<a href="https://github.com/mhmdhmdbdh2050/Docker-custom-image-project"><img src="./assets/architecture/docker-custom-image.svg" width="100%" alt="Custom Nginx image serves a copied HTML page through host port 8082"/></a>
+
+<a href="https://github.com/mhmdhmdbdh2050/Docker-volume-project"><img src="./assets/architecture/docker-volume-project.svg" width="100%" alt="Two containers exchange a file through a shared Docker volume"/></a>
+
+<a href="https://github.com/mhmdhmdbdh2050/Simple_docker_project"><img src="./assets/architecture/simple-docker-project.svg" width="100%" alt="Nginx container serves static files from a mounted html directory"/></a>
+
+<a href="https://github.com/mhmdhmdbdh2050/Rock-paper-and-scissors-game"><img src="./assets/architecture/rock-paper-scissors.svg" width="100%" alt="Command-line game flow from player input to random choice and result"/></a>
 
 <img src="./assets/divider.svg" width="100%" alt="Animated network-line section divider"/>
 
