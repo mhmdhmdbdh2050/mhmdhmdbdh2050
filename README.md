@@ -6,6 +6,42 @@ I build and document practical Linux, Docker, networking, and automation labs. M
 
 [Email](mailto:ahmedmohamed05147@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-6705b3303/) · [All repositories](https://github.com/mhmdhmdbdh2050?tab=repositories)
 
+## Project architectures
+
+Each diagram links to its repository. The diagrams summarize the checked-in project files; cloud resources provisioned outside these repositories are labeled as external where relevant.
+
+### DevOps Automation Stack
+
+<a href="https://github.com/mhmdhmdbdh2050/devops-automation-stack/tree/codex/reliable-operations-scripts"><img src="assets/architecture/devops-automation-stack.svg" alt="DevOps Automation Stack architecture: client, Nginx, Flask API, PostgreSQL, and Redis" width="100%"></a>
+
+### Kubernetes Multi-App Ingress Lab
+
+<a href="https://github.com/mhmdhmdbdh2050/k8s-multi-app-ingress-lab"><img src="assets/architecture/kubernetes-multi-app-ingress.svg" alt="Kubernetes Ingress routes three URL paths to three application services and deployments" width="100%"></a>
+
+### WordPress Compose Stack
+
+<a href="https://github.com/mhmdhmdbdh2050/docker-compose-wordpress-stack/tree/codex/secure-phpmyadmin-default"><img src="assets/architecture/wordpress-compose-stack.svg" alt="WordPress Compose architecture with Nginx, WordPress, MariaDB, and persistent storage" width="100%"></a>
+
+### Docker Networking Lab
+
+<a href="https://github.com/mhmdhmdbdh2050/Docker-networking-lab/tree/codex/reproducible-networking-lab"><img src="assets/architecture/docker-networking-lab.svg" alt="Four containers connected across two isolated Docker bridge networks, with one dual-homed container" width="100%"></a>
+
+### Docker Custom Image Project
+
+<a href="https://github.com/mhmdhmdbdh2050/Docker-custom-image-project"><img src="assets/architecture/docker-custom-image.svg" alt="Custom Nginx image serves a copied HTML page through host port 8082" width="100%"></a>
+
+### Docker Volume Project
+
+<a href="https://github.com/mhmdhmdbdh2050/Docker-volume-project"><img src="assets/architecture/docker-volume-project.svg" alt="Two separate containers exchange a file through a shared Docker volume" width="100%"></a>
+
+### Simple Docker Project
+
+<a href="https://github.com/mhmdhmdbdh2050/Simple_docker_project"><img src="assets/architecture/simple-docker-project.svg" alt="Browser reaches an Nginx container serving static files from the mounted html directory" width="100%"></a>
+
+### Rock Paper Scissors Game
+
+<a href="https://github.com/mhmdhmdbdh2050/Rock-paper-and-scissors-game"><img src="assets/architecture/rock-paper-scissors.svg" alt="Command-line game flow from player input through random computer choice to result" width="100%"></a>
+
 ## Selected projects
 
 ### [DevOps Automation Stack](https://github.com/mhmdhmdbdh2050/devops-automation-stack/tree/codex/reliable-operations-scripts)
