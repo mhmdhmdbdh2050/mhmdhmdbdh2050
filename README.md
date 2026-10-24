@@ -18,7 +18,7 @@ I'm **Mohamed Ahmed Abdo**, a **Junior DevOps & Cloud Engineer** based in **Giza
 
 I learn DevOps by building practical environments and debugging them hands-on. I'm looking for opportunities as a Junior DevOps Engineer or Junior Cloud Engineer.
 
-<img src="./assets/terminal-profile.svg" width="100%" alt="Terminal dashboard showing my identity, location, technical focus, AWS certifications, project themes, and engineering approach"/>
+<img src="./assets/terminal-profile.svg" width="100%" alt="Terminal dashboard showing my identity, location, technical focus, project themes, and engineering approach"/>
 
 <img src="./assets/divider.svg" width="100%" alt="Animated network-line section divider"/>
 
@@ -59,17 +59,23 @@ flowchart TD
 
 <img src="./assets/divider.svg" width="100%" alt="Animated network-line section divider"/>
 
-## `04` — Certifications
+## `04` — Selected Projects
 
-<a href="https://aws.amazon.com/verification/"><img src="./assets/cert-ai.svg" width="100%" alt="AWS Certified AI Practitioner credential card, issued September 10, 2026, expiring September 10, 2029"/></a>
+### KubeMart Kubernetes Platform
 
-<a href="https://aws.amazon.com/verification/"><img src="./assets/cert-clf.svg" width="100%" alt="AWS Certified Cloud Practitioner credential card, issued May 25, 2026, expiring May 25, 2029"/></a>
+A Kubernetes learning project with a storefront, FastAPI backend, PostgreSQL, Ingress, persistent storage, security examples, monitoring configuration, and customer authentication.
 
-Verify certificates using the official [AWS Certification Verification](https://aws.amazon.com/verification/) service and the validation number printed on each credential.
+- Passwords are hashed; session tokens are random, and only token digests are stored in PostgreSQL.
+- Kubernetes manifests and operational examples are documented as learning material, not claims of production deployment.
+- Includes a basic GitHub Actions workflow for image builds and manifest validation.
+
+[View KubeMart →](https://github.com/mhmdhmdbdh2050/kubemart-kubernetes-platform)
+
+<img src="./assets/architecture/kubernetes-multi-app-ingress.svg" width="100%" alt="Kubernetes Ingress routes three paths to three application services and deployments"/>
 
 <img src="./assets/divider.svg" width="100%" alt="Animated network-line section divider"/>
 
-## `05` — Selected Projects
+## `05` — More Selected Projects
 
 <a href="https://github.com/mhmdhmdbdh2050/k8s-multi-app-ingress-lab"><img src="./assets/project-k8s.svg" width="100%" alt="Kubernetes Multi-App Ingress Lab project card with Kubernetes, NGINX Ingress and AWS technology chips"/></a>
 
