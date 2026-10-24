@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 390" role="img" aria-labelledby="title desc">
 <title id="title">Mohamed Ahmed Abdo terminal-style developer profile</title>
-<desc id="desc">A dark terminal panel with a Kubernetes-inspired ASCII cluster on the left and profile details, focus areas, certifications, and contact links on the right.</desc>
+<desc id="desc">A dark terminal panel with a Kubernetes-inspired ASCII cluster on the left and profile details, learning focus, and project themes on the right.</desc>
 <defs>
   <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101820"/><stop offset="1" stop-color="#172B35"/></linearGradient>
   <linearGradient id="top" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2DD4BF"/><stop offset=".55" stop-color="#326CE5"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
@@ -52,13 +52,10 @@
 <text x="522" y="168" class="mono white" font-size="12">Giza, Egypt</text>
 <text x="414" y="194" class="mono orange" font-size="12">FOCUS</text>
 <text x="522" y="194" class="mono white" font-size="12">Linux · Docker · Kubernetes</text>
-<text x="522" y="212" class="mono white" font-size="12">AWS · Automation · Networking</text>
-<text x="414" y="239" class="mono orange" font-size="12">CERTS</text>
-<text x="522" y="239" class="mono white" font-size="12">AWS AI Practitioner</text>
-<text x="522" y="257" class="mono white" font-size="12">AWS Cloud Practitioner</text>
-<text x="414" y="284" class="mono orange" font-size="12">PROJECTS</text>
-<text x="522" y="284" class="mono white" font-size="12">Kubernetes Ingress · Docker Compose</text>
-<text x="522" y="302" class="mono white" font-size="12">Networking · WordPress stack</text>
+<text x="522" y="212" class="mono white" font-size="12">AWS labs · Bash · Networking</text>
+<text x="414" y="248" class="mono orange" font-size="12">PROJECTS</text>
+<text x="522" y="248" class="mono white" font-size="12">KubeMart · Kubernetes Ingress</text>
+<text x="522" y="266" class="mono white" font-size="12">Docker Compose · Networking labs</text>
 <path d="M414 319H970" stroke="#344E5B"/>
 <text x="414" y="343" class="mono teal" font-size="12">$ cat approach.txt</text>
 <text x="414" y="362" class="mono white" font-size="12">Build → Test → Document → Improve</text>
